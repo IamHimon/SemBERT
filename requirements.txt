@@ -1,0 +1,6 @@
+allennlp
+tqdm
+scipy
+sklearn
+boto3
+tqdm

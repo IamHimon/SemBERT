@@ -1,0 +1,9 @@
+
+*.xml
+*.iml
+*.pyc
+*.bin
+glue_data/
+glue/
+snli_model_dir/
+srl_model_dir/
